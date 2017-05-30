@@ -1,0 +1,13 @@
+*.iml
+api_keys.xml
+
+.idea
+.gradle
+.DS_Store
+build
+libs
+
+/local.properties
+/captures
+
+.externalNativeBuild

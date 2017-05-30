@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">twitter_timeline_viewer</string>
+    <string name="action_handle">Handle</string>
+
+    <string name="preference_key">com.skjline.twitter.timeline</string>
+    <string name="handle_key">timeline_handle</string>
+</resources>
