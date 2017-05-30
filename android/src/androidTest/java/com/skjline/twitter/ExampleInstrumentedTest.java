@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.exercise.twitter", appContext.getPackageName());
+        assertEquals("com.skjline.twitter", appContext.getPackageName());
     }
 }
